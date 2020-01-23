@@ -12,7 +12,7 @@
 * If you want to test it, please be sure to have the [contact-manager-backend](https://github.com/areiterer/contact-manager-backend) running.
 
 ```
-git clone https://github.com/areiterer/contact-manager
+
 cd contact-manager
 npm install
 npm start
